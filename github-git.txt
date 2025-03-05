@@ -1,0 +1,9 @@
+BELAJAR GITHUB
+- branch
+- merge
+- fork
+BELAJAR GIT
+- download
+- usn
+- push 
+- pull
